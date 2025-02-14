@@ -1,8 +1,3 @@
----
-layout: home
-title: Welcome to My Learning Journal
----
-
 # Welcome to My Learning Journal! 📖
 
 This is my personal space where I document everything I learn in **Data Science, Tech, and Life**.
