@@ -1,0 +1,28 @@
+title: "My Learning Journal"
+description: "A structured journal to track Data, Tech, and Life insights."
+theme: minima
+
+collections:
+  journal:
+    output: true
+    permalink: /journal/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: "journal/data"
+    values:
+      category: "data"
+      layout: "journal"
+  - scope:
+      path: "journal/tech"
+    values:
+      category: "tech"
+      layout: "journal"
+  - scope:
+      path: "journal/life"
+    values:
+      category: "life"
+      layout: "journal"
