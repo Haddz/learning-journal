@@ -12,19 +12,22 @@ collections:
 
 defaults:
   - scope:
-      path: ""
+      path: ""  # Applies to everything
     values:
-      layout: "home"
+      layout: "default"
+
   - scope:
       path: "journal/data"
     values:
       category: "data"
       layout: "journal"
+
   - scope:
       path: "journal/tech"
     values:
       category: "tech"
       layout: "journal"
+
   - scope:
       path: "journal/life"
     values:
