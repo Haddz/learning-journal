@@ -13,3 +13,7 @@ title: "My Learning Journal"
   <li><a href="/analytics-projects">📊 Analytics Projects</a></li>
   <li><a href="/resources">🌐 Resources</a></li>
 </ul>
+
+
+---
+[View Repository on GitHub](https://github.com/Haddz/learning-journal)
