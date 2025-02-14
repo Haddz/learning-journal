@@ -1,6 +1,6 @@
 # Welcome to My Learning Journal! 📖
 
-This is my personal space where I document everything I learn in **Data Science, Tech, and Life**.
+This is my personal space where I document Things I learn in **Data Science, Tech, and Life**.
 
 ## 🔗 Quick Links
 - 📚 [Learning Logs](journal/)
