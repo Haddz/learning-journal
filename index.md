@@ -21,4 +21,5 @@ title: "My Learning Journal"
   <a href="{{ post.url }}">Read More</a>
 {% endfor %}
 
-[View Repository on GitHub](https://github.com/Haddz/learning-journal)
+<p><a href="https://github.com/Haddz/learning-journal">View Repository on GitHub</a></p>
+
